@@ -18,12 +18,12 @@ In this tutorial, we are looking at traffic through wireshark using virtual mach
 
 <h2>High-Level Steps</h2>
 
-- Create virtual machine (Windows Server)
-- Copy virtual ip address and remote connect
-- Add roles on server manager
-- Install Active Directory
+- Create virtual machines (Windows Server and Ubuntu)
+- Installed wireshark
+- Capture traffic and view only in ICMP
+- Use powershell to view responses of packets from VM1 to VM2
 
-<h2>Deployment and Configuration Steps</h2>
+<h2>Examination and Action Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/HRr9zH0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
