@@ -39,6 +39,7 @@ Installed wireshark within my virtual machine and just examing the traffic of pa
 <p>
 So I opened powershell command line and pinged my IP address continuisly using "ping -t 10.0.0.5" to see if there is a reply coming from that specific IP address. Timed out means that IP address is not receiving any acknowledgement from 10.0.0.5.
 
+
 <p>
 <img src="https://i.imgur.com/tClvwlf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
