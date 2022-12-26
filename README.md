@@ -43,4 +43,4 @@ So I opened powershell command line and pinged my IP address continuisly using "
 <img src="https://i.imgur.com/tClvwlf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Used powershell to -t ping the IP address from DC-1. At first, it was timed out. After allowing ICMPv4 in Active Directory, now client-1 is getting replies from DC-1. A lot of steps to this but very cool to see the this networks. 
+Used powershell to -t ping the IP address from VM-1. At first, it was timed out. After allowing ICMPv4 in Active Directory, now VM-2 is getting replies from VM-1. Very cool to see the way this all works. 
