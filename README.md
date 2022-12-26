@@ -38,3 +38,9 @@ Installed wireshark within my virtual machine and just examing the traffic of pa
 </p>
 <p>
 So I opened powershell command line and pinged my IP address continuisly using "ping -t 10.0.0.5" to see if there is a reply coming from that specific IP address. Timed out means that IP address is not receiving any acknowledgement from 10.0.0.5.
+
+<p>
+<img src="https://i.imgur.com/tClvwlf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Used powershell to -t ping the IP address from DC-1. At first, it was timed out. After allowing ICMPv4 in Active Directory, now client-1 is getting replies from DC-1. A lot of steps to this but very cool to see the this networks. 
