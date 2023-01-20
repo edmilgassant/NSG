@@ -44,4 +44,4 @@ Just capturing packets. It is basically just showing random packets moving aroun
 <img src="https://i.imgur.com/E8kJmD5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After searching icmp. I copied LinuxVM private address and opened powershell to ping LinuxVM private IP adress and started simpoky recieving traffic from LinuxVM while on Windows10VM. Pretty cool!
+After searching icmp. I copied LinuxVM private address and opened powershell to ping LinuxVM private IP adress and started recieving traffic from LinuxVM while on Windows10VM. Pretty cool!
